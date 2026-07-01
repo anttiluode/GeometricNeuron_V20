@@ -1,5 +1,9 @@
 # Geometric Neuron V20 — The Recomposition
 
+A geometric neuron style adder: 
+
+https://anttiluode.github.io/GeometricNeuron_V20/
+
 **A curated repo. Not a new build — the load-bearing organs of the whole Geometric-Neuron line, pulled from six source repos and put back into the one object V5 already was, in the order the argument needs them.**
 
 PerceptionLab / Antti Luode, with Claude (Opus 4.8). Helsinki, June 2026.
